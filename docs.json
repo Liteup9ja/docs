@@ -1,0 +1,138 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Webrevix",
+  "theme": "palm",
+  "logo": {
+    "light": "/images/ChatGPTImageJul30,2026,08_48_18AM.png",
+    "dark": "/images/ChatGPTImageJul30,2026,08_48_18AM.png"
+  },
+  "favicon": {
+    "light": "/images/ChatGPTImageJul30,2026,07_20_10AM.png",
+    "dark": "/images/ChatGPTImageJul30,2026,08_48_18AM.png"
+  },
+  "colors": {
+    "primary": "#1E4FFF",
+    "light": "#7EA6FF",
+    "dark": "#0A1A66"
+  },
+  "font": {
+    "headings": {
+      "family": "Inter Variable"
+    },
+    "body": {
+      "family": "Inter Variable"
+    }
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Book a Free Call",
+      "href": "https://calendly.com/webrevix"
+    },
+    "links": [
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
+      }
+    ]
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "index",
+              "about",
+              "services",
+              "why-webrevix",
+              "benefits",
+              "process",
+              "testimonials",
+              "faq",
+              "contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://linkedin.com/company/webrevix",
+      "x": "https://x.com/webrevix"
+    },
+    "links": [
+      {
+        "header": "Company",
+        "items": [
+          {
+            "label": "About",
+            "href": "/about"
+          },
+          {
+            "label": "Why Choose Us",
+            "href": "/why-webrevix"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "header": "Explore",
+        "items": [
+          {
+            "label": "Services",
+            "href": "/services"
+          },
+          {
+            "label": "Process",
+            "href": "/process"
+          },
+          {
+            "label": "FAQ",
+            "href": "/faq"
+          }
+        ]
+      },
+      {
+        "header": "Get Started",
+        "items": [
+          {
+            "label": "Book a Call",
+            "href": "https://calendly.com/webrevix"
+          },
+          {
+            "label": "Email",
+            "href": "mailto:webrevix@gmail.com"
+          },
+          {
+            "label": "WhatsApp",
+            "href": "https://wa.me/2349076160845"
+          }
+        ]
+      }
+    ]
+  },
+  "fonts": {
+    "family": "Geist"
+  },
+  "description": "Webrevix helps businesses grow through smart technology. We build modern websites, automate repetitive work, and create digital experiences that save time and drive growth.",
+  "seo": {
+    "indexing": "all"
+  },
+  "interaction": {
+    "drilldown": true
+  },
+  "appearance": {
+    "default": "light"
+  }
+}

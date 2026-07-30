@@ -1,0 +1,21 @@
+/* Enlarge navbar logo */
+nav-logo img,
+#navbar a img,
+#navbar img {
+  height: 48px !important;
+  max-height: 48px !important;
+  width: auto !important;
+}
+
+/* Enlarge footer logo */
+footer img,
+#footer img {
+  height: 44px !important;
+  max-height: 44px !important;
+  width: auto !important;
+}
+
+/* Give the navbar a bit more room for the taller logo */
+#navbar {
+  min-height: 72px;
+}

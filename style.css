@@ -2,20 +2,20 @@
 nav-logo img,
 #navbar a img,
 #navbar img {
-  height: 96px !important;
-  max-height: 96px !important;
+  height: 120px !important;
+  max-height: 120px !important;
   width: auto !important;
 }
 
 /* Enlarge footer logo */
 footer img,
 #footer img {
-  height: 88px !important;
-  max-height: 88px !important;
+  height: 110px !important;
+  max-height: 110px !important;
   width: auto !important;
 }
 
 /* Give the navbar room for the taller logo */
 #navbar {
-  min-height: 120px;
+  min-height: 144px;
 }
